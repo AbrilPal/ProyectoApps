@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "865864717191",
+    "firebase_url": "https://superfoods-24093.firebaseio.com",
+    "project_id": "superfoods-24093",
+    "storage_bucket": "superfoods-24093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865864717191:android:a518a9f22ff6e490",
+        "android_client_info": {
+          "package_name": "com.example.superfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865864717191-8vlp0p7uibk58efdnk9rj1uct089g6hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtvVfHogadXrgGFqkRkrrqbbQF6bZQO6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
